@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections;
 
-public class Example
+public class SolutionSixtyone
 {
     public static int[] sort_numbers(int[] array)
     {
